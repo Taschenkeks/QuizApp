@@ -9,10 +9,14 @@ body{
    display: flex;
    justify-content: center;
    align-items: center;
+   
 }
 
 .quiz-card{
    width: 30rem;
+   background-color: orange;
+   border-radius: 8px;
+   padding: 8px;
 
 }
 
@@ -27,5 +31,11 @@ body{
 
 h5{
    padding: 8px;
+
+}
+
+.answerCard:hover{
+   cursor: pointer;
+   background-color: rgba(0, 0, 0, 0.1);
 
 }
