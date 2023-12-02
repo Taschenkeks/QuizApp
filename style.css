@@ -39,3 +39,37 @@ h5{
    background-color: rgba(0, 0, 0, 0.1);
 
 }
+
+.bg-success, .bg-danger {
+   color: white !important;
+
+}
+
+.width-100{
+   width: 100%;
+
+}
+
+.text-center{
+   text-align: center;
+
+}
+
+.finalText{
+   font-size: 36px;
+   font-weight: bold;
+
+}
+
+.card-img-top{
+   max-height: 600px;
+   padding-bottom: 8px
+
+}
+
+.button-row{
+   display: flex;
+   justify-content: center;
+   margin-top: 24px;
+
+}
